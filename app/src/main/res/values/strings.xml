@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Scotia Practical Test</string>
+    <string name="repository_list">Repository List</string>
+    <string name="enter_github_userid">Enter GitHub User ID</string>
+    <string name="search">Search</string>
+    <string name="unknown">Unknown</string>
+    <string name="no_description">No Description</string>
+    <string name="repository_detail">Repository Detail</string>
+    <string name="back">Back</string>
+    <string name="no_description_available">No description available</string>
+    <string name="forks">Forks: %1$d</string>
+    <string name="stars">Stars: %1$d</string>
+    <string name="last_updated">Last updated: %1$s</string>
+    <string name="star_badge">Star Badge</string>
+</resources>
